@@ -1,0 +1,6 @@
+.idea/
+slackbot_settings.py
+__pycache__/
+*.iml
+babi/
+model.h5
